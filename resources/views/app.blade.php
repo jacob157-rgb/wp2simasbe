@@ -34,7 +34,7 @@
                             Surat Masuk</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-envelope"></i>
+                        <a class="nav-link" href="{{route('suratkeluars.index')}}"><i class="fa fa-envelope"></i>
                             Surat Keluar</a>
                     </li>
                 </ul>
